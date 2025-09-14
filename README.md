@@ -5,7 +5,7 @@ It includes smooth effects such as:
 - 3D rotation using `transform: rotateX / rotateY`
 - Jump animation on hover
 - Face color change when hovered
-- Realistic shadow with `drop-shadow`
+- Realistic shadow with `box-shadow`
 - Floating effect that makes the button look like a real object
 
 ---
